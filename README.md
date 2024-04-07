@@ -31,14 +31,11 @@ The dataset provided by the client includes the following attributes for each em
 5. Model Deployment: Deploy the selected model to predict promotion likelihood for new data.
 
 ## Directory Structure
-- `data/`: Contains the dataset provided by the client
-- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, model development, and evaluation
-- `src/`: Python scripts for data preprocessing, model training, and evaluation
-- `models/`: Saved trained models
-- `reports/`: Reports and visualizations generated during the analysis
+- `Dataset/`: Contains the dataset provided by the client
+- `HR_Promotion_Predictive_Analytics.ipynb`: Jupyter notebooks for data exploration, preprocessing, model development, and evaluation
 
 ## Requirements
-- Python 3.x
+- Python
 - Jupyter Notebook
 - pandas
 - scikit-learn
@@ -50,5 +47,4 @@ The dataset provided by the client includes the following attributes for each em
 2. Navigate to the project directory: `cd hr-promotion-predictive-analytics`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Explore the Jupyter notebooks in the `notebooks/` directory to understand the analysis and modeling process.
-5. Use the provided Python scripts in the `src/` directory for data preprocessing, model training, and evaluation.
-6. Deploy the trained model as necessary for predicting promotion likelihood for new data.
+5. Deploy the trained model as necessary for predicting promotion likelihood for new data.
