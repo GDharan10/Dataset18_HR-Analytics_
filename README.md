@@ -44,7 +44,7 @@ The dataset provided by the client includes the following attributes for each em
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/your-username/hr-promotion-predictive-analytics.git`
-2. Navigate to the project directory: `cd hr-promotion-predictive-analytics`
+2. Navigate to the project directory: `Dataset18_HRPromotionPredictiveAnalytics_Classification`
 3. Install the required dependencies: `pip install -r requirements.txt`
-4. Explore the Jupyter notebooks in the `notebooks/` directory to understand the analysis and modeling process.
+4. Explore the Jupyter notebooks in the `HR_Promotion_Predictive_Analytics.ipynb` to understand the analysis and modeling process.
 5. Deploy the trained model as necessary for predicting promotion likelihood for new data.
